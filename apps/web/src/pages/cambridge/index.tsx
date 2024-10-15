@@ -33,8 +33,8 @@ const IndexPage = () => (
         ]}
         right={[
           {
-            text: 'Donate',
-            href: 'donate/',
+            text: 'Get Involved',
+            href: 'https://forms.gle/AujoS3qakAN1f9cu9',
           },
         ]}
       />
@@ -77,7 +77,7 @@ const IndexPage = () => (
       </div>
 
       <div className="flex justify-center gap-2 mt-12">
-        <Button href="https://forms.gle/f5eu3d2fifRWSsqs5">
+        <Button href="https://forms.gle/AujoS3qakAN1f9cu9">
           Get Involved!
         </Button>
         <Button href="partner/">Become a Partner</Button>
