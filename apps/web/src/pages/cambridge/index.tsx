@@ -142,7 +142,7 @@ const IndexPage = () => (
             year will open in May Week, but we're always interested in hearing
             from people who want to get involved - register your interest
             {' '}
-            <a href="https://forms.gle/f5eu3d2fifRWSsqs5">here</a>
+            <a href="https://forms.gle/CNdAnVaUD66uSMe39">here</a>
             !
           </p>
           <p>
